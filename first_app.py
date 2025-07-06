@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/info)
 def lwinfo():
-	return " i am lucky from sikar"
+	return " i am Aryan"
 
 @app.route("/phone")
 def lwphone():
